@@ -63,12 +63,17 @@ const johnny = {
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ## Featured Projects 🌟
+
+### [Dayleet](https://github.com/go-johnnyhe/Dayleet) ![GitHub stars](https://img.shields.io/github/stars/go-johnnyhe/Dayleet?style=social)
+
+*Dayleet* is a XZY. Built with **[Tech 1](link)**, **[Tech 2](link)**, and **[Tech 3](link)**, it aims to [project goal].
+
 <div align="center">
   <a href="https://github.com/go-johnnyhe/Dayleet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=go-johnnyhe&repo=dayleet&theme=radical" />
   </a>
-  <!-- Add another featured project if available -->
 </div>
+
 
 ## Language Stats 📊
 <div align="center">
