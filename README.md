@@ -34,9 +34,9 @@ const johnny = {
 ```
 
 ## Current Ventures 🎯
-- 🔭 Leading development on **Dayleet** - *Help practice Leetcode with spaced repetition*
+- 🔭 Leading development on **Dayleet** - *Website that help practice Leetcode with spaced repetition*
 - 🌱 Deep diving into **Cloud Native Architecture** and **Distributed Systems**
-- 🎓 Pursuing Masters in Computer Science
+- 🎓 Pursuing Masters in Computer Science at Northeastern University
 - 💡 Exploring **Go** for high-performance backend systems
 - 📚 Preparing for **AWS Solutions Architect Certification**
 
@@ -70,9 +70,8 @@ const johnny = {
   <!-- Add another featured project if available -->
 </div>
 
-## GitHub Stats 📊
+## Language Stats 📊
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=go-johnnyhe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-johnnyhe&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
