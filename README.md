@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Code%20Universe!&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0C1021&height=200&section=header&text=Console.log('Hello%20World')&fontSize=40&fontColor=00FF41&fontAlign=70&fontAlignY=25&rotate=8&desc=chmod%20+x%20life.sh&descSize=15&descAlign=80&descAlignY=45" />
 </div>
 
 <!-- Typing SVG -->
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Johnny</h1>
+<h1 align="center">Hi there! I'm Johnny</h1>
 
 <!-- About Me Section -->
 ```terminal
