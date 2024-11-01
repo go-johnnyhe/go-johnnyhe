@@ -1,6 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=%7B%20CODE%20//%20SLEEP%20//%20REPEAT%20%7D&fontSize=40&fontColor=703ee5&animation=fadeIn&desc=while(alive)%20%7B%20code()%3B%20%7D&descSize=20&descAlignY=75" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Initializing+Systems...;root%40universe%3A~%24+Hello+World" />
+  </a>
 </div>
 
 <!-- Typing SVG -->
