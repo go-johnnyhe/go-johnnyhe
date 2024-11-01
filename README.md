@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0C1021&height=200&section=header&text=Console.log('Hello%20World')&fontSize=40&fontColor=00FF41&fontAlign=70&fontAlignY=25&rotate=8&desc=chmod%20+x%20life.sh&descSize=15&descAlign=80&descAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=%7B%20CODE%20//%20SLEEP%20//%20REPEAT%20%7D&fontSize=40&fontColor=703ee5&animation=fadeIn&desc=while(alive)%20%7B%20code()%3B%20%7D&descSize=20&descAlignY=75" />
 </div>
 
 <!-- Typing SVG -->
