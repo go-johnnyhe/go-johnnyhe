@@ -1,8 +1,16 @@
 <!-- Header Banner -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Initializing+Systems...;root%40universe%3A~%24+Hello+World" />
-  </a>
+<pre>
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│   █▀▀▄ █▀▀ █░░░█ █▀▀ █░░ █▀▀█ █▀▀█ █▀▀ █▀▀█   │
+│   █░░█ █▀▀ ▄▀▀▄ █▀▀ █░░ █░░█ █░░█ █▀▀ █▄▄▀   │
+│   █▄▄▀ ▀▀▀ ▀░░▀ ▀▀▀ ▀▀▀ ▀▀▀▀ █▀▀▀ ▀▀▀ ▀░▀▀   │
+│                                                  │
+│        > PRESS ANY KEY TO CONTINUE...           │
+│                                                  │
+└──────────────────────────────────────────────────┘
+</pre>
 </div>
 
 <!-- Typing SVG -->
