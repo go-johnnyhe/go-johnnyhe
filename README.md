@@ -14,12 +14,11 @@
 
 <h1 align="center">Hi there! I'm Johnny 👋</h1>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/johnnyhe7/)
-![Profile Views](https://komarev.com/ghpvc/?username=go-johnnyhe&color=blueviolet&style=flat-square)
 
-</div>
+
+🌱 OPEN TO 2025 SUMMER SDE INTERNSHIPS (U.S)🌱🌱
+- **Reach me   👉👉👉 he.minga@northeastern.edu**
+- **Connect me 👉👉👉 https://linkedin.com/in/johnnyhe7**
 
 ## About Me 💫
 ```typescript
