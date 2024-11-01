@@ -31,11 +31,6 @@
 - 🌱 Learning **Go, Kubernetes, AWS Solutions Architect Cert**
 - 👯 Looking to collaborate on my **Dayleet** project
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=go-johnnyhe&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=go-johnnyhe&theme=radical" alt="GitHub Streak" />
-</div>
 
 <!-- Skills -->
 ### Tech Stack 🛠
