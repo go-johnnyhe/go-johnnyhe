@@ -18,7 +18,7 @@
 
 🌱 OPEN TO 2025 SUMMER SDE INTERNSHIPS (U.S)🌱🌱
 - **Reach me   👉👉👉 he.minga@northeastern.edu**
-- **Connect me 👉👉👉 https://linkedin.com/in/johnnyhe7**
+- **Connect with me 👉👉👉 https://linkedin.com/in/johnnyhe7**
 
 ## About Me 💫
 ```typescript
