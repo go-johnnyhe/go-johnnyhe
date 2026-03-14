@@ -2,8 +2,7 @@
 
   CS Masters student at Northeastern (Seattle). Returning AWS intern. I like building backend systems in Go.
 
-  Currently working on [Waveland](https://github.com/go-johnnyhe/waveland) — real-time code collaboration that works with any editor. Like Google Docs, but
-  for coding.
+  Recently shipped [Shadow](https://github.com/go-johnnyhe/shadow).
 
   CKAD certified.
 
